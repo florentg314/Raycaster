@@ -11,7 +11,7 @@ make
 ## Usage
 
 ```shell
-./raycaster
+./raycaster <map filepath>
 ```
 
 ## Controls
