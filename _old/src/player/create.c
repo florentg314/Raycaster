@@ -10,7 +10,7 @@ static void init_player_object(player_t *player, sfVector2f *block_size)
     sfRectangleShape_setPosition(player->object, player->pos);
     sfRectangleShape_setSize(player->object, half_block_size);
     sfRectangleShape_setOrigin(player->object, origin);
-    sfRectangleShape_setFillColor(player->object, sfYellow);
+    sfRectangleShape_setFillColor(player->object, sfRed);
     sfRectangleShape_setOutlineThickness(player->object, 0);
 }
 

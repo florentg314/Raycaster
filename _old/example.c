@@ -5,7 +5,7 @@
 int main(void)
 {
     sfEvent event = {0};
-    sfColor wall_colors[] = {sfWhite, sfBlue, sfYellow};
+    sfColor wall_colors[] = {sfWhite, sfBlue, sfRed};
     sfColor map_colors[] = {sfBlack, sfWhite};
     sfVector2u map_size = {16, 16};
     sfVideoMode mode = sfVideoMode_getDesktopMode();
