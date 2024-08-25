@@ -18,8 +18,7 @@ make
 
 :warning: Strikethrough controls are not available in the current version yet. But it is in the old version.
 
-`Arrow Left/Arrow Right` => Go forward/backward \
-~~`Arrow Up/Down` => move forward/backward~~ \
+`Arrow Up/Down` => move forward/backward \
 `Arrow Left/Right` => turn left/right \
 ~~`Comma (,)/Period (.)` => increase/decrease graphics quality~~ \
 ~~`M` => toggle mouse view (disabled by default)~~ \
