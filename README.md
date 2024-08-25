@@ -16,9 +16,12 @@ make
 
 ## Controls
 
-`Arrow Up/Down` => move forward/backward \
+:warning: Strikethrough controls are not available in the current version yet. But it is in the old version.
+
+`ZQSD` => move up/down/left/right \
+~~`Arrow Up/Down` => move forward/backward~~ \
 `Arrow Left/Right` => turn left/right \
-`Comma (,)/Period (.)` => increase/decrease graphics quality \
-`M` => toggle mouse view (disabled by default) \
-`P` => toggle pause mode (disabled by default) \
-`A/S` => increase/decrease perspective's wall height
+~~`Comma (,)/Period (.)` => increase/decrease graphics quality~~ \
+~~`M` => toggle mouse view (disabled by default)~~ \
+~~`P` => toggle pause mode (disabled by default)~~ \
+~~`A/S` => increase/decrease perspective's wall height~~
