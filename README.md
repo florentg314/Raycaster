@@ -18,7 +18,7 @@ make
 
 :warning: Strikethrough controls are not available in the current version yet. But it is in the old version.
 
-`ZQSD` => move up/down/left/right \
+`Arrow Left/Arrow Right` => Go forward/backward \
 ~~`Arrow Up/Down` => move forward/backward~~ \
 `Arrow Left/Right` => turn left/right \
 ~~`Comma (,)/Period (.)` => increase/decrease graphics quality~~ \
